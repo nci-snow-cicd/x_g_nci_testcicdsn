@@ -1,0 +1,18 @@
+{
+  "category": "x_g_nci_testcicdsn_testcicdsnow_table",
+  "maximum_digits": 7,
+  "number": 1000,
+  "prefix": "TES",
+  "sys_class_name": "sys_number",
+  "sys_created_by": "rizknt@nih.gov",
+  "sys_created_on": "2020-04-14 18:40:11",
+  "sys_id": "47878f271b08541094edddb6bc4bcb01",
+  "sys_mod_count": 0,
+  "sys_name": "TES",
+  "sys_package": "ae870f271b08541094edddb6bc4bcbdd",
+  "sys_policy": null,
+  "sys_scope": "ae870f271b08541094edddb6bc4bcbdd",
+  "sys_update_name": "sys_number_47878f271b08541094edddb6bc4bcb01",
+  "sys_updated_by": "rizknt@nih.gov",
+  "sys_updated_on": "2020-04-14 18:40:11"
+}

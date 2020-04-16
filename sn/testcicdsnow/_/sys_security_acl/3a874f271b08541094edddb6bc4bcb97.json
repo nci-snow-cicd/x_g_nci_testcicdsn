@@ -1,0 +1,23 @@
+{
+  "active": true,
+  "admin_overrides": true,
+  "advanced": false,
+  "condition": null,
+  "description": "Default access control on x_g_nci_testcicdsn_testcicdsnow_table",
+  "name": "x_g_nci_testcicdsn_testcicdsnow_table",
+  "operation": "write",
+  "script": null,
+  "sys_class_name": "sys_security_acl",
+  "sys_created_by": "rizknt@nih.gov",
+  "sys_created_on": "2020-04-14 18:40:10",
+  "sys_id": "3a874f271b08541094edddb6bc4bcb97",
+  "sys_mod_count": 0,
+  "sys_name": "x_g_nci_testcicdsn_testcicdsnow_table",
+  "sys_package": "ae870f271b08541094edddb6bc4bcbdd",
+  "sys_policy": null,
+  "sys_scope": "ae870f271b08541094edddb6bc4bcbdd",
+  "sys_update_name": "sys_security_acl_3a874f271b08541094edddb6bc4bcb97",
+  "sys_updated_by": "rizknt@nih.gov",
+  "sys_updated_on": "2020-04-14 18:40:10",
+  "type": "record"
+}
